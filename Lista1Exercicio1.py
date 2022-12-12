@@ -1,0 +1,8 @@
+print('Bom dia')
+nome = input('Digite seu nome:')
+endereco = input('Insira seu Endereço:')
+idade = int(input('Digite sua idade:'))
+telefone = int(input('Digite seu telefone:'))
+cargo = input('Seu cargo:')
+salario = int(input('Seu salário:'))
+print('Cadastro realizado com sucesso!')
